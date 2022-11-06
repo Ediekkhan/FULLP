@@ -1,0 +1,203 @@
+*/{
+    margin: 0;
+    padding: 0;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+   
+}
+
+a{
+    margin: 50px;
+    text-decoration: none;
+    color: black;
+}
+
+h1{
+    text-align: center;
+}
+
+ .call{
+    border-left: 0.5px solid black;
+    padding: 5px;
+ }
+
+ .sec1{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+ }
+
+ button{
+    padding: 20px;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+ }
+
+ .sec2{
+    display: flex;
+    background: rgba(217, 217, 217, 0.32);
+    padding: 30px;
+ }
+
+ .sub1{
+    width: 50%;
+ }
+
+ .ssub2{
+    display: flex;
+ }
+
+.img2{
+    border-radius: 50px;
+}
+
+ .txt2{
+    padding-left: 10px;
+    align-items: center;
+ }
+
+ form{
+        margin-top: 30%;
+ }
+
+ .fh{
+    margin-left: 100px;
+ }
+
+ input{
+    width: 100%;
+    padding: 10px;
+    margin-left: 20%;
+ }
+
+ .fbutton{
+    margin-left: 20%;
+ }
+
+ .one{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+ }
+
+ .one h1{
+    background-color: #4D59A0;
+    padding: 30px;
+    border-radius: 70px;
+ }
+
+ .one p{
+    margin-left: 10px;
+ }
+ 
+ .sh{
+    font-size: 30px;
+    font-weight: 700;
+ }
+
+ .sec3{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    
+  
+ }
+
+ .txt3{
+      padding: 10px;
+ }
+ .h{
+    text-align: center;
+ }
+ .offers{
+   display: grid;
+   grid-template-columns:  auto auto auto auto;
+ }
+
+ .soffers{
+   padding: 20px;
+   background:  #F3F3F3;
+   
+ }
+
+ .sec5{
+   display: flex;
+   justify-content: space-between;
+   width: 100%;
+ }
+
+ .sec5 img{
+   width: 30%;
+   height: 50vh;
+ }
+
+ .mid{
+   background-color: #4D59A0;
+   padding-left: 15%;
+   padding-right: 15%;
+   
+   
+ }
+
+ .mid h2{
+   color: white;
+   text-align: center;
+   align-items: center;
+   padding-top: 40px;
+   font-size: 27px;
+ }
+
+ .mid button{
+   margin-left: 10px;
+   background-color: black;
+ }
+
+ .wire{
+   justify-content: space-evenly;
+   
+ 
+ }
+
+ .wire h1 {
+   margin-right: 30px;
+   color: #999999;
+   
+ }
+
+ .wire ul{
+   justify-content: center;
+   justify-content: space-evenly;
+ }
+
+ .txt6 img {
+   height: 15vh;
+   box-sizing: border-box;
+   border-radius: 100%;
+   margin: 10px;
+ }
+
+
+ .txt6{
+   display: flex;
+ }
+
+ .cusre{
+   display: flex;
+ }
+
+ .flex6{
+   margin: 10px;
+ }
+
+ 
