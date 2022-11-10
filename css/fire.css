@@ -17,7 +17,7 @@ ul{
 }
 
 a{
-    margin: 50px;
+    margin: 30px;
     text-decoration: none;
     color: black;
 }
@@ -38,10 +38,14 @@ h1{
  }
 
  button{
-    padding: 20px;
-    border-radius: 10px;
+    padding: 10px;
+    border-radius: 10px 0px;
     background-color: blue;
     color: white;
+    cursor: pointer;
+ }
+ button:hover{
+   background-color:rgb(2, 2, 112);
  }
 
  .sec2{
@@ -120,6 +124,7 @@ h1{
  .h{
     text-align: center;
  }
+
  .offers{
    display: grid;
    grid-template-columns:  auto auto auto auto;
@@ -129,6 +134,10 @@ h1{
    padding: 20px;
    background:  #F3F3F3;
    
+ }
+
+ .soffers img{
+   width: 99%;
  }
 
  .sec5{
